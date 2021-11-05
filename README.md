@@ -14,15 +14,15 @@ The current project is the inital design and development of the application to g
 ## Technologies
 
 This project leverages python 3.7 with the following packages:
-*[fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
+* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
 
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
 
-*[Jupyter](https://jupyter.org/documentation) - For documentation
+* [Jupyter](https://jupyter.org/documentation) - For documentation
 
-*[sqlalchemy] (https://docs.sqlalchemy.org/en/14/core/engines.html#sqlite) - For more info on SQLite
+* [sqlalchemy] (https://docs.sqlalchemy.org/en/14/core/engines.html#sqlite) - For more info on SQLite
 
-*[voila] (https://github.com/voila-dashboards/voila/tree/main/docs) - for documentation
+* [voila] (https://github.com/voila-dashboards/voila/tree/main/docs) - for documentation
 ---
 
 ## Installation Guide
