@@ -20,9 +20,9 @@ This project leverages python 3.7 with the following packages:
 
 * [Jupyter](https://jupyter.org/documentation) - For documentation
 
-* [sqlalchemy] (https://docs.sqlalchemy.org/en/14/core/engines.html#sqlite) - For more info on SQLite
+* [sqlalchemy](https://docs.sqlalchemy.org/en/14/core/engines.html#sqlite) - For more info on SQLite
 
-* [voila] (https://github.com/voila-dashboards/voila/tree/main/docs) - for documentation
+* [voila](https://github.com/voila-dashboards/voila/tree/main/docs) - for documentation
 ---
 
 ## Installation Guide
