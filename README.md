@@ -36,7 +36,9 @@ Before running the application first install the following dependencies.
   conda list sqlalchemy
   conda install -c conda-forge voila
 ```
-run the commands as shown on the terminal in the image below.
+run the web application by typing the following url on your web browser
+
+https://mybinder.org/v2/gh/odhissm/passive_investing.git/HEAD
 
 ---
 
