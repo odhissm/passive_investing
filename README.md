@@ -60,6 +60,10 @@ Brought to you by odhissm@gmail.com
 
 ---
 
+## Image of voila application
+
+![etf_analyzer Application](etf_analyzer/Resources/images/web_app.jpg)
+
 ## License
 
 MIT
